@@ -53,7 +53,7 @@ fruit = arr[1..3]  # ["Apple", "Pear", "Bananna"]
 
 fruit = arr[3...4] # ["Bananna"] (Exclusive)
 
-rest  = arr[3..3]	 # ["Bananna"] (Inclusive)
+rest  = arr[3..3]  # ["Bananna"] (Inclusive)
 
 arr[1..3] = ["Cucumber", "Letuce", "Potatoe"]
 
