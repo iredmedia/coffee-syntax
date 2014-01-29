@@ -24,3 +24,5 @@ A few quick examples of CoffeeScript! Lets take a look at:
 ## Practical Use
 
 Take a look at my [react-coffee-script](https://github.com/iredmedia/react-coffee-example) to get a clearer understanding of how to use coffeescript to reduce the amount of typing you do (which makes what I love doing - prototyping, much more enjoyable)
+
+[Special thanks to](http://blog.vjeux.com/2013/javascript/react-coffeescript.html)
